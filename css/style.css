@@ -540,7 +540,7 @@ font-size: 11px;
 section {
     padding-top: 0px 
  }
-}
+
 
 @media (max-width: 768px) {
     .modal.in .modal-dialog {
