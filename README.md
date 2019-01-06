@@ -1,2 +1,3 @@
-# Website in the works for Amsterdam based vintage bike enthusiast
+ Website for Amsterdam based vintage bike enthusiast
 
+www.arnasvintagebikes.com
